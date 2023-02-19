@@ -2,11 +2,12 @@
 
 ## What is Cloud WAN? 
 
-AWS Cloud WAN is a service that let's you bridge your on premises networks
-to AWS VPCs, and provides network policy management capabilities. You use Cloud WAN 
-to create a core network, and then network edges that are connected to your global network, 
-such as VPNs and VPCs. You can configure different segments, for production networks and
-development networks for example, or to serve different sets of users.
+AWS Cloud WAN is a service that let's you bridge your on premises networks to AWS, and provides 
+network policy management capabilities. 
+
+You use Cloud WAN to create a core network and network edges that are connected to your VPCs,
+Transit Gateways, and Direct Connect connections. You can configure different isolated segments, 
+for production networks and development networks for example, or to serve different sets of users.
 
 ## How it works
 
