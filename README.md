@@ -8,7 +8,7 @@ to create a core network, and then network edges that are connected to your glob
 such as VPNs and VPCs. You can configure different segments, for production networks and
 development networks for example, or to serve different sets of users.
 
-## How it works?
+## How it works
 
 - The main.tf file contains a simple configuration for us-east-1 and us-west-2
 - The global network acts as a container for the network objects Terraform provisions
