@@ -21,4 +21,6 @@ provisioned and peered via Network Manager
 - Scale out to additional VPCs, Transit Gateway attachments, and register the Transit
 Gateways, then peer them with Network Manager to the core network in the same region that
 the Transit Gateway is deployed
+- Configure IAM roles for deployment
+- Configure VPC route tables, NACLs, and Transit Gateway policy
 
